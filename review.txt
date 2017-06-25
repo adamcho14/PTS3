@@ -1,0 +1,4 @@
+- chyba hlavny program, ktory sa bude spustat
+- class round:	deklarovat si niekde self.teams
+		init zly, insert potrebuje dva argumenty namiesto jedneho, cize asi pouzit append
+		addTeam() to iste insert zly
